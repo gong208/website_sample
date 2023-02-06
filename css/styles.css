@@ -1,0 +1,27 @@
+hr {
+    border-color: #FCC2FC;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 17%;
+}
+/********** TAG SELECTORS **********/
+body {
+    background-color:  #E5FDD1
+}
+
+h1 {
+    color: #698269;
+}
+
+h3 {
+    color: #AACB73;
+}
+/********** CLASS SELECTORS **********/
+.contact_info {
+    font-size: large;
+}
+/********** ID SELECTORS **********/
+#me {
+    border-radius: 100%;
+}
